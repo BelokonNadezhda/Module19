@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Module19</string>
+    <string name="res_text">Текст из ресурсов</string>
+    <string name="name_button">Нажми</string>
+    <string name="disclaimer">Постеры предоставлены https://www.movieposters.com/</string>
+    <string name="btn1">МЕНЮ</string>
+    <string name="btn2">ИЗБРАННОЕ</string>
+    <string name="btn3">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="btn4">ПОДБОРКИ</string>
+    <string name="btn5">НАСТРОЙКИ</string>
 </resources>
